@@ -6,6 +6,7 @@ A collection of resources for working with Xcode Interface Builder / UIStoryboar
 
 CocoaPods
 ===================
+Organizing scenes into different storyboards and linking them.
 [RBStoryboardLink](https://github.com/rob-brown/RBStoryboardLink)
 
 
